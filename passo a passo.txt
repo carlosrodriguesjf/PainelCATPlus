@@ -1,0 +1,15 @@
+
+PASSO 1 - LIMPEZA DAS PLANILHAS
+
+- dados-outros (FEITO)
+- dados-controle-arquivamento
+- dados-correios
+- dados-funcionarios (FEITO)
+- dados-distribuicao-demandas
+- dados-distribuicao-demandas-outubro23
+- dados-atendimento-telefonico (FEITO)
+- dados-atendimento-presencial
+
+
+
+
