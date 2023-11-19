@@ -5,11 +5,11 @@ PASSO 1 - LIMPEZA DAS PLANILHAS
 - dados-controle-arquivamento (FEITO)
 - dados-correios (FEITO)
 - dados-funcionarios (FEITO)
-- dados-distribuicao-demandas
-- dados-distribuicao-demandas-outubro23
+- dados-distribuicao-demandas (FEITO)
+- dados-distribuicao-demandas-outubro23 (FEITO)
 - dados-atendimento-telefonico (FEITO)
 - dados-atendimento-presencial
-
+- verificar a planilha cancelamentos
 
 
 
